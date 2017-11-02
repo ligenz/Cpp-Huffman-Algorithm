@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1498071709 source:c:\users\micha³\desktop\projektzasd\pjakp\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<time.h>
+	<cstdlib>
+
